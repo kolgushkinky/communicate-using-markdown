@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Communicate using Markdown
+### Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
@@ -62,7 +62,7 @@ GitHub is about more than code. It’s a platform for software collaboration, an
 
 **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
 
-### Example
+#### Example
 
 ```md
 # This is an `<h1>` header, which is the largest
@@ -101,7 +101,7 @@ GitHub is about more than code. It’s a platform for software collaboration, an
 <details id=2>
 <summary><h2>Step 2: Add an image</h2></summary>
 
-_Great job adding headers to the file :sparkles:_
+# _Great job adding headers to the file :sparkles:_
 
 Let's add an image. Include descriptive text in the square brackets. This text is read aloud for people using screen readers. It's also shown at times when your image doesn't display, such as when there's a poor connection. You can see the syntax for images below:
 
