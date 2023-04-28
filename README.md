@@ -52,7 +52,7 @@ GitHub is about more than code. It’s a platform for software collaboration, an
 <details id=1 open>
 <summary><h2>Step 1: Add headers</h2></summary>
 
-_Welcome to "Communicate using Markdown"! :wave:_
+# _Welcome to "Communicate using Markdown"! :wave:_
 
 **What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
 
